@@ -48,11 +48,17 @@ The dashboard revolves around these 4 main topics :
 
 ## :camera: Gallery
 
-### Modelisation of the database
+#### Modelisation of the database
 ![picture2](Pictures/database-modelisation.png)
 
-###  Dashboard synthese page
+#### Dashboard synthese page
 ![picture3](Pictures/dashboard-synthese-page.png)
+
+
+## :wrench: Tools
+
+[![forthebadge()]](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 ## :handshake: Team members
@@ -65,7 +71,3 @@ The dashboard revolves around these 4 main topics :
 ## :lock: License
 
 Add a license here, or a link to it.
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge()]](https://forthebadge.com)
