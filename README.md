@@ -57,7 +57,8 @@ The dashboard revolves around these 4 main topics :
 
 ## :wrench: Tools
 
-[![forthebadge()]](https://forthebadge.com)
+[![forthebadge](Pictures/badge-made-with-sql-EC2646-C20707.svg)](https://forthebadge.com)
+[![forthebadge](Pictures/badge-designed-in-power-bi-A7BFC1-3C9AD5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
