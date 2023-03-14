@@ -52,7 +52,7 @@ The dashboard revolves around these 4 main topics :
 ![picture2](Pictures/database-modelisation.png)
 
 ###  Dashboard synthese page
-![picture3]()
+![picture3](Pictures/dashboard-synthese-page.png)
 
 
 ## :handshake: Team members
