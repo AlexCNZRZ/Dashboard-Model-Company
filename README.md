@@ -33,7 +33,7 @@ The dashboard revolves around these 4 main topics :
 
 ## :twisted_rightwards_arrows: Workflow diagram
 
-![Picture1](Pictures/name_file.png)
+![Picture1](Pictures/workflow-diagram-bg-white.png)
 
 
 ## :scroll: Steps of the project
