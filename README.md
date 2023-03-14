@@ -7,11 +7,11 @@ Student Project using :
 
 ## :ledger: Index
 
- - [Subject](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#beginner-subject)
- - [Product Backlogs](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#dart-product-backlogs)
- - [Workflow diagram](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#wrench-tools)
- - [Steps of the project](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#scroll-steps-of-the-project)
- - [Gallery](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#camera-gallery)
+ - [Subject](h#beginner-subject)
+ - [Product Backlogs](#dart-product-backlogs)
+ - [Workflow diagram](h#wrench-tools)
+ - [Steps of the project](#scroll-steps-of-the-project)
+ - [Gallery](#camera-gallery)
  - [Team members](#handshake-team-members)
 
 
