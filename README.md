@@ -48,10 +48,11 @@ The dashboard revolves around these 4 main topics :
 
 ## :camera: Gallery
 
- - screenshot of the modelisation of the database
- - screenshot of the dashboard synthese
-
+### Modelisation of the database
 ![picture2](Pictures/database-modelisation.png)
+
+###  Dashboard synthese page
+![picture3]()
 
 
 ## :handshake: Team members
