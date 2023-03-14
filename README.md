@@ -12,7 +12,7 @@ Student Project using :
  - [Workflow diagram](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#wrench-tools)
  - [Steps of the project](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#scroll-steps-of-the-project)
  - [Gallery](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#camera-gallery)
- - [Team members](https://github.com/AlexCNZRZ/Dashboard-Model-Company/edit/main/README.md#handshake-team-members)
+ - [Team members](#handshake-team-members)
 
 
 ## :beginner: Subject
