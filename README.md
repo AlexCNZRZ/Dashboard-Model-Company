@@ -51,6 +51,8 @@ The dashboard revolves around these 4 main topics :
  - screenshot of the modelisation of the database
  - screenshot of the dashboard synthese
 
+![picture2](Pictures/database-modelisation.png)
+
 
 ## :handshake: Team members
 
