@@ -71,4 +71,4 @@ The dashboard revolves around these 4 main topics :
 
 ## :lock: License
 
-No license involved.
+This project is licensed under the terms of the MIT.
